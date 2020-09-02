@@ -1,0 +1,68 @@
+.melon_button {
+color: #333 !important;
+background: #ffffff;
+font-size: 16px;
+padding: 20px;
+border: 2px solid #333 !important;
+border-radius: 6px;
+display: inline-block;
+text-decoration: none;
+transition: all 0.3s ease 0s;
+}
+
+.melon_button:hover {
+color: #ffffff !important;
+background: #19be7f;
+font-size: 16px;
+font-weight: bold;
+border-radius: 50px;
+border-color: #1a222c !important;
+text-decoration: none;
+transition: all 0.3s ease 0s;
+}
+
+.qs_button {
+color: #333 !important;
+background: #ffffff;
+font-size: 16px;
+padding: 20px;
+border: 2px solid #333 !important;
+border-radius: 6px;
+display: inline-block;
+text-decoration: none;
+transition: all 0.3s ease 0s;
+}
+
+.qs_button:hover {
+color: #ffffff !important;
+background: #ad974f;
+font-size: 16px;
+font-weight: bold;
+border-radius: 50px;
+border-color: #1a222c !important;
+text-decoration: none;
+transition: all 0.3s ease 0s;
+}
+
+.paper_button {
+color: #333 !important;
+background: #ffffff;
+font-size: 16px;
+padding: 20px;
+border: 2px solid #333 !important;
+border-radius: 6px;
+display: inline-block;
+text-decoration: none;
+transition: all 0.3s ease 0s;
+}
+
+.paper_button:hover {
+color: #ffffff !important;
+background: #1a222c;
+font-size: 16px;
+font-weight: bold;
+border-radius: 50px;
+border-color: #1a222c !important;
+text-decoration: none;
+transition: all 0.3s ease 0s;
+}
