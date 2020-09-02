@@ -19,7 +19,7 @@
       <!-- Warning Fonts often are registered or carry Copyright restirctions. -->
       <!-- Before using font information check with appropriate notices provided by the font creator. -->
    <font horiz-adv-x="2048">
-      <font-face font-family="Avenir-Book" units-per-em="2048" underline-thickness="102.4" underline-position="-153.6"/>
+      <font-face font-family="Prompt" units-per-em="2048" underline-thickness="102.4" underline-position="-153.6"/>
       <missing-glyph horiz-adv-x="500" d="M0,0 L500,0 L500,700 L0,700 M250,395 L80,650 L420,650 M280,350 L450,605 L450,95 M80,50 L250,305 L420,50 M50,605 L220,350 L50,95 z"/>
       <glyph unicode="&#x0021;" horiz-adv-x="569.344" d="M395.264,98.304 C395.264,69.63185664 385.0241024,44.03211264 364.544,21.504 C344.0638976,-1.02411264 317.44016384,-12.288 284.672,-12.288 C251.90383616,-12.288 225.2801024,-1.02411264 204.8,21.504 C184.3198976,44.03211264 174.08,69.63185664 174.08,98.304
 C174.08,126.97614336 184.3198976,152.57588736 204.8,175.104 C225.2801024,197.63211264 251.90383616,208.896 284.672,208.896 C317.44016384,208.896 344.0638976,197.63211264 364.544,175.104 C385.0241024,152.57588736 395.264,126.97614336 395.264,98.304
@@ -2285,7 +2285,7 @@ L880.64,757.76 L1196.032,757.76 L1196.032,634.88 L815.104,634.88 L673.792,368.64
          <text
              id="8C608117"
              style="fill:#AD974F;stroke:none"
-             font-family="Avenir"
+             font-family="Prompt"
              font-size="246"
              font-weight="normal"
              font-style="normal">
