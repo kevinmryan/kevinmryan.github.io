@@ -4,7 +4,7 @@ description: Jekyll CV
 
 # User settings
 username: Kevin Ryan
-user_description: I'm a Data Scientist and Analytics Manager with <b>10+ years</b> experience applying machine learning and optimization methods to a wide range of applications, solving complex problems through data-driven decision-making. 
+user_description: I'm a Data Scientist and Analytics Manager with <b>12+ years</b> experience applying machine learning and optimization methods to a wide range of applications, solving complex problems through data-driven decision-making. 
 user_title: Data Scientist
 email: kevin.ryan7@gmail.com
 exclude: ['package.json', 'src' , 'node_modules']
