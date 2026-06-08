@@ -4,7 +4,7 @@ description: Dr. Ryan
 
 # User settings
 username: Kevin Ryan
-user_description: I'm the Head of Data Analyitcs for Chess.com with <b>15 years</b> experience applying machine learning and optimization methods to a wide range of applications, solving complex problems through data-driven decision-making. 
-user_title: Head of Data Analytics
+user_description: I'm the Director of Data Analytics and Data Science at Scopely with <b>15 years</b> experience applying machine learning and optimization methods to a wide range of applications, solving complex problems through data-driven decision-making. 
+user_title: Director of Data Analytics and Data Science
 email: kevin.ryan7@gmail.com
 exclude: ['package.json', 'src' , 'node_modules']
